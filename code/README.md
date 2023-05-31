@@ -13,7 +13,15 @@ presented in the paper. The contents of the directory are listed below.
 - Has a dependency on the org.spaceroots.mantissa mathematics package
 - Can be run in an IDE or from the command line using `javac/java`
 
- 
+ ** Timing_residuals_and_observation_dist.ipynb**
+- Used to reproduce the figures for the post-fit timing residuals (as a function of epoch and orbital phase) and the orbital coverage of all the observations presented in the supplementary materials
+
+** Evolution_of_periastron_advance.ipynb**
+- Used to reproduce the figure for the evolution of the advance of periastron as a function of observations presented in the supplementary material
+
+** PeriastronAdvance_LTPrecession.ipynb**
+- Used to reproduce the figure for the maximum contribution to the rate of advance of periastron from Lense-Thirring precession presented in the supplementary material
+
 
 
 
