@@ -22,7 +22,9 @@ presented in the paper. The contents of the directory are listed below.
 **PeriastronAdvance_LTPrecession.ipynb**
 - Used to reproduce the figure for the maximum contribution to the rate of advance of periastron from Lense-Thirring precession presented in the supplementary material
 
-
+**TEMPO** is a software for analysing the radio timing data of a pulsar. 
+Usage: `tempo -f <ephemeris file> <TOA_file>`
+For more details, check https://tempo.sourceforge.net/ref_man_sections/usage.txt. 
 
 
 
