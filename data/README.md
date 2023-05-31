@@ -4,7 +4,7 @@ This directory contains the dataset required to reproduce the results presented 
 
 **NGC1851E_T1_DDH.par** 
 - The timing model (ephemeris) for NGC 1851E
-- Includes the final timing parameters for the pulsar derived from the full dataset
+- Includes the final timing parameters for the pulsar derived using the full dataset
 
 **NGC1851E_T1.tim**
 - The times of arrival (ToAs) of the pulses from NGC 1851E
