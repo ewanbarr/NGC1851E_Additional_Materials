@@ -8,7 +8,7 @@ presented in the paper. The contents of the directory are listed below.
 - Has PGPLOT as dependency
 - Can be complied with `gcc -o ../bin/mass_mass_plot -I/aux/miraculix/psrsoft/pgplot/ mass_mass_plot.c -L/aux/miraculix/packages/linux/pgplot -L/usr/X11R6/lib64 -lcpgplot -lpgplot -lX11 -lm -lgfortran`
 
-**calc_probability_3rd_body.java**
+**calc_tidal_omdot_propability_MC_for_Journal.java**
 - Used to estimate the omega-dot contributions from possible 3rd bodies in the NGC 1851E system
 - Has a dependency on the org.spaceroots.mantissa mathematics package
 - Can be run in an IDE or from the command line using `javac/java`
