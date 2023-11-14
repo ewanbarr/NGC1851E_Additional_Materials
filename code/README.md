@@ -22,6 +22,9 @@ presented in the paper. The contents of the directory are listed below.
 **PeriastronAdvance_LTPrecession.ipynb**
 - Used to reproduce the figure for the maximum contribution to the rate of advance of periastron from Lense-Thirring precession presented in the supplementary material
 
+**show_hst_observations.[py/sh]**
+- Used to fetch the observation details for the HST observations used in this work. Uses the MAST archive API
+
 **TEMPO**  
 - We here include the version of the tempo software used for the analysis presented in the paper.
 - For current versions of this software see: https://github.com/nanograv/tempo
